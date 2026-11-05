@@ -1,0 +1,3 @@
+# config.py
+BOT_TOKEN = "1780243295:-ssAHyJWsWd4wyBKLSICvVP3jKzqdbOFY93"
+API_SERVER = "https://misugram.cloud-ip.cc"
